@@ -1,0 +1,21 @@
+@import "assets";
+@import "fonts";
+@import "vars";
+
+html,
+body {
+	height: 100%
+}
+
+body {
+	font-size: 16px;
+	position: relative;
+	line-height: 1.2;
+	font-family: $default-font;
+	overflow-x: hidden;
+	opacity: 1;
+	background-color: #fff;
+}
+
+@import "section_files";
+@import "media";
