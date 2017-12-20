@@ -1,0 +1,46 @@
+{
+  "name": "kaqu-code-start-template",
+  "version": "1.0.0",
+  "description": "modern app builder for creating web project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kaqu-Code/"
+  },
+  "keywords": [
+    "start-template",
+    "start",
+    "template",
+    "kaqu-code",
+    "html5",
+    "css3",
+    "pug",
+    "pugjs",
+    "jade",
+    "scss",
+    "gulp"
+  ],
+  "author": "kaqu-code",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-cache": "^1.0.1",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^4.0.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-rsync": "0.0.8",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "vinyl-ftp": "^0.6.0"
+  }
+}
